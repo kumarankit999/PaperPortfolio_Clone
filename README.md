@@ -24,23 +24,6 @@ In an increasingly digital world, having an online portfolio is crucial for disp
 - **Contact Information:** Provide contact details so that visitors can easily get in touch with you.
 - **Customization:** Easily customize the content, colors, and layout to suit your personal brand.
 
-## Usage
-
-1. Customize the content:
-   - Open the `index.html` file in a text editor.
-   - Locate the placeholders (e.g., `<!-- Your Name -->`, `<!-- Your About Me Text -->`) and replace them with your own content.
-
-2. Add your projects:
-   - Navigate to the `projects` directory.
-   - For each project, create a new directory and include relevant images, descriptions, and links.
-   - In the `index.html` file, locate the `<!-- Project Cards -->` section and follow the provided template to add your projects.
-
-3. Customize styles:
-   - If you want to change the color scheme or styles, open the `styles.css` file and modify the CSS variables.
-
-4. Test responsiveness:
-   - Open the portfolio in different browsers and devices to ensure responsiveness.
-
 ## Technologies
 
 - HTML5
