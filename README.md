@@ -20,9 +20,7 @@ In an increasingly digital world, having an online portfolio is crucial for disp
 - **Elegant Design:** The portfolio features a clean and minimalist design that emphasizes the content without distractions.
 - **Responsive:** The portfolio is responsive and works seamlessly across different devices and screen sizes.
 - **Project Showcase:** Display your projects, artworks, or any other work samples in a visually appealing manner.
-- **About Me:** Introduce yourself through a dedicated "About Me" section.
 - **Contact Information:** Provide contact details so that visitors can easily get in touch with you.
-- **Customization:** Easily customize the content, colors, and layout to suit your personal brand.
 
 ## Technologies
 
